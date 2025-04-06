@@ -1,0 +1,28 @@
+Retail and Sales Project Outlines:
+
+1- Convert Data to Json file
+
+2- Make an ETL Pipeline using Python 
+	- open the file
+	- extract the file as data frame 
+	- transform it and fill missing values
+	- load it into SQL Server
+	(In each Function ensure that everything is done)
+	- in the end of scripts write a validation function
+
+3- Load Data into SQL Server 
+	- ensure that u load the file into the database
+
+4- import Essential Data by Power BI power query
+	- try it by SQL query 
+	- Split them into a data store (if necessary)
+	
+5- make a preparation by Power Query 
+	- add custom and conditional columns
+	- making a grouping 
+	- Write DAX and made them in a separate table
+	- Make Data Modeling and Set the relationship
+
+6- Design the report and Give Recommendations 
+	- Make the report and write the recommendation in the repo and Linked in post.
+

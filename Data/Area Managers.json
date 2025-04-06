@@ -1,0 +1,18 @@
+[
+    {
+        "Region":"Central",
+        "Manager":"Chris"
+    },
+    {
+        "Region":"East",
+        "Manager":"Erin"
+    },
+    {
+        "Region":"South",
+        "Manager":"Sam"
+    },
+    {
+        "Region":"West",
+        "Manager":"William"
+    }
+]
