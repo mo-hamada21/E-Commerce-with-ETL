@@ -34,3 +34,6 @@ The data consists of the following main tables:
 6. **Compare actuals against business goals (e.g., profit margin target)**
 
 ---
+
+
+![Sales Overview](Profitability & Sales.png)
