@@ -104,8 +104,6 @@ DAX measures and calculated columns were created to derive margin, AOV, return r
 
 Below is the relational data model used to connect and analyze the dataset in Power BI. The model integrates five core tables — `Invoices`, `Customers`, `Products`, `Returns`, and `AreaManagers` — joined through foreign key relationships to ensure referential integrity and enable cross-filtering across visuals.
 
-> 📸 *Insert your data model diagram below:*
-
 ![Data Model Diagram](./assets/Data_Model.png)
 
 ---
