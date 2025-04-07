@@ -36,7 +36,7 @@ The data consists of the following main tables:
 ---
 
 ## 📊 Dashboard 1: Profitability & Sales Performance
-![Profitability&Sales](Profitability&Sales.png)
+![Profitability&Sales](./assets/Profitability&Sales.png)
 
 ### KPIs:
 - **Profit Margin %** (with goal indicator)
@@ -57,7 +57,7 @@ The insights revealed that the **overall profit margin was 13.52%**, which falls
 ---
 
 ## 👥 Dashboard 2: Customer Acquisition, Retention & Returns
-![Customer&Returns](Customer&Returns.png)
+![Customer&Returns](./assets/Customer&Returns.png)
 
 ### KPIs:
 - **Last 3-Month Active Customers**
@@ -97,6 +97,16 @@ These tooltips support deeper insight without crowding the visual layout of the 
 - `AreaManagers`: Regional manager assignments
 
 DAX measures and calculated columns were created to derive margin, AOV, return rates, and custom KPIs benchmarked against set targets.
+
+---
+
+## 📐 Data Model
+
+Below is the relational data model used to connect and analyze the dataset in Power BI. The model integrates five core tables — `Invoices`, `Customers`, `Products`, `Returns`, and `AreaManagers` — joined through foreign key relationships to ensure referential integrity and enable cross-filtering across visuals.
+
+> 📸 *Insert your data model diagram below:*
+
+![Data Model Diagram](./assets/data_model.png)
 
 ---
 
