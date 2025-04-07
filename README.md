@@ -106,7 +106,7 @@ Below is the relational data model used to connect and analyze the dataset in Po
 
 > 📸 *Insert your data model diagram below:*
 
-![Data Model Diagram](./assets/data_model.png)
+![Data Model Diagram](./assets/Data_Model.png)
 
 ---
 
